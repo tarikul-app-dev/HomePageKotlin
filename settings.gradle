@@ -1,0 +1,2 @@
+rootProject.name = "DashboardFrameKotlin"
+include ':app'
